@@ -1,4 +1,4 @@
-x = list(map(int,input('Введите значения цен через пробел ').split()))
+x = list(map(int,input('Введите список чисел через пробел ').split()))
 z = len(x)
 e = 0
 k = 0
